@@ -142,6 +142,8 @@ There is also a managed version of this project, currently in beta. Feel free to
 
 ```
 npm i -g wrangler
+# or
+brew install cloudflare-wrangler2
 ```
 
 **Login With Wrangler to Cloudflare**
